@@ -11,7 +11,7 @@ export default function ContactCTA() {
           <div className="prose prose-invert max-w-none">
             <p className="text-text-secondary mb-4">
               Interested in adapting this multi-agent architecture for your business?
-              With over 2.5 years of dedicated engineering experience in backend
+              With over 4+ years of dedicated engineering experience in backend
               development and performance optimization, I can help you implement
               this securely.
             </p>
